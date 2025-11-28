@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Keith Duke
 
-**Full-Stack Engineer · Agentic AI & LLM Systems · Text-First Games**
+**Full-Stack Engineer · Agentic AI & LLM Systems · New Media & Games**
 
 I'm a full-stack engineer with 13+ years of experience shipping products at scale, including a decade as a Lead/Senior engineer working on web properties at CBS Interactive (now Paramount). These days I'm focused on:
 
