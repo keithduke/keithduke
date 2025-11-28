@@ -15,7 +15,7 @@ I'm a full-stack engineer with 13+ years of experience shipping products at scal
 - **T.O.M. Framework** – A minimal, hackable agent framework for running local “thinking” models (like Qwen3-4B-Thinking) on Apple Silicon with tools, memory, and a CLI front-end.  
   <sub>Repo: [`TOM-framework`](https://github.com/keithduke/TOM-framework)</sub>
 
-- **Dunil’s Hold** – A project macOS iOS project I am currently heads down on. There will be more details VERY soon.
+- **Dunil’s Hold** – A macOS iOS project I am currently heads down on. There will be more details VERY soon.
 
 - **Personal Site & Writing** – Keeping a running log of what I’m building and thinking about.  
   <sub>Site: [keithduke.net](https://www.keithduke.net) · Essays: [Here Lately](https://www.herelately.com)</sub>
